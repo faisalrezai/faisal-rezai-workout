@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Faisal Rezai Unique Workout Routine",
+      "path": "web-you-vs-you",
+      "framework": "web"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
